@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Settings
 
-Create addresses.txt file with your addresses, NOT private keys.
+Create keys.txt file with your private keys
 
 ## Usage
 
